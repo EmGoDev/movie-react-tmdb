@@ -3,8 +3,7 @@
 hice una investigación sobre que apis hay y como implementarlas
 
 13:45
-empecé a rear la aplicación con npx create-react-app con sus dependencias:
-react-router-dom, axios, query-string, sass y swiper.
+empecé a rear la aplicación con npx create-react-app con sus dependencias: react-router-dom, axios, query-string, sass y swiper.
 
 14:00
 borrando archivos de sobra
@@ -13,6 +12,15 @@ preparando la Resposiveness para adaptar a tamaño mobil y tablet
 
 14:46
 termine el estilado base
+ahora configuraré la API
+configurando AXIOS para hacer peticiones a servidores y conectar con API.
+
+16:23
+ufffff
+estuve teniendo problemas con axios, no estaba creando bien la extructura entre la importacion y la configuración de api que toma axios para funcionar, y las exportaciones.
+
+16:46
+estructurando los componentes, el home, header, footer, etc.
 
 
 
