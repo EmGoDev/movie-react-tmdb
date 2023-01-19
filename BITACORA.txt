@@ -1,0 +1,6 @@
+19/01/2023
+12:10
+hice una investigación sobre que apis hay y como implementarlas
+
+13:45
+empecé a rear la aplicación con npx create-react-app
