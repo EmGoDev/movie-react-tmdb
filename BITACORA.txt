@@ -22,5 +22,13 @@ estuve teniendo problemas con axios, no estaba creando bien la extructura entre 
 16:46
 estructurando los componentes, el home, header, footer, etc.
 
+17:51
+he terminado con el routing de los componentes principales, me pase un buen tiempo investigando.
+Que dolor de cabeza!
+
+18:20
+Terminé el modal que toma parámetros dependiendo del error, honestamente mezclé varios códigos que encontré en la web
+
+
 
 
