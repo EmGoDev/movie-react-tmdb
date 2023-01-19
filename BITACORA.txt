@@ -3,4 +3,16 @@
 hice una investigación sobre que apis hay y como implementarlas
 
 13:45
-empecé a rear la aplicación con npx create-react-app
+empecé a rear la aplicación con npx create-react-app con sus dependencias:
+react-router-dom, axios, query-string, sass y swiper.
+
+14:00
+borrando archivos de sobra
+Configurando SCSS 
+preparando la Resposiveness para adaptar a tamaño mobil y tablet
+
+14:46
+termine el estilado base
+
+
+
