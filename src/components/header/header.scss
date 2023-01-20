@@ -3,6 +3,11 @@
 .logo {
     font-size: 2.5rem;
     font-weight: 600;
+    p {
+        text-align: center;
+        font-size:small;
+        font-weight: 400
+    }
 
     @include flex(center, unset);
 
