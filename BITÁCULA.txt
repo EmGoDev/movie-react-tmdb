@@ -1,9 +1,9 @@
 19/01/2023
 12:10
-hice una investigación sobre que apis hay y como implementarlas
+hice una investigación sobre que APIs de películas hay, y me decidí por TMDB
 
 13:45
-empecé a rear la aplicación con npx create-react-app con sus dependencias: react-router-dom, axios, query-string, sass y swiper.
+empecé a crear la aplicación con npx create-react-app con sus dependencias: react-router-dom, axios, query-string, sass y swiper.
 
 14:00
 borrando archivos de sobra
@@ -24,11 +24,19 @@ estructurando los componentes, el home, header, footer, etc.
 
 17:51
 he terminado con el routing de los componentes principales, me pase un buen tiempo investigando.
-Que dolor de cabeza!
 
 18:20
 Terminé el modal que toma parámetros dependiendo del error, honestamente mezclé varios códigos que encontré en la web
 
+18:28
+armando la LandingPage, usaré Swiper para las presentaciones de las películas.
 
+19:52
+todavía estoy experimentando, nunca creí que Swiper se resistiera a funcionar bien.
 
+20:30
+hora de la comida
 
+19/01/2023
+16:42
+terminé los componentes footer, header, la lista de las élículas y la terjeta de las películas
