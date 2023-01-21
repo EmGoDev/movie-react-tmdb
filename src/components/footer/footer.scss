@@ -11,12 +11,11 @@
         max-width: 1000px;
 
         &__logo {
-            border-top: 1px solid darkgray;
+            border-top: 2px solid darkgray;
             @include flex(center, center);
-            padding-top: 15px;
+            padding-top: 10px;
             margin-left: 2rem;
             margin-right: 2rem;
-            margin-bottom: 3rem;
         }
 
         &__menus {
