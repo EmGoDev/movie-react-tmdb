@@ -9,6 +9,7 @@ import tmdbApi, { category } from '../../api/tmdbApi';
 
 import MovieCard from '../movie-card/MovieCard';
 
+
 const MovieList = props => {
 
     const [items, setItems] = useState([]);
@@ -32,6 +33,7 @@ const MovieList = props => {
             setItems(response.results);
         }
         getList();
+    // eslint-disable-next-line
     }, []);
 
     return (
